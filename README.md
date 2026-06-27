@@ -69,3 +69,4 @@ sql-assignment/
 ---
 
 *Celebal Summer Internship 2026 — Week 2 SQL Task*
+- SUJAL SINGH
